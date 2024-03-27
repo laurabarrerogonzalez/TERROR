@@ -1,0 +1,14 @@
+.backmain {
+    width: 100%;
+  }
+  
+  .mainback {
+    margin-top: -30px;
+    background-image: url('https://res.cloudinary.com/dit2zhtwz/image/upload/v1711455933/Captura_de_pantalla_2024-03-26_120928_aa0eai.png');
+    height: 90rem;
+    background-size: cover; /* cubrir completamente el contenedor */
+    background-repeat: no-repeat;
+    background-position: center; /* centrar la imagen de fondo */
+  }
+  
+ 
